@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact diurnall of the Parliament of ladyes Ordered by the ladyes in Parliament, that they declared that Prince Rupert, Lord Digby, Lord Capell, Lord Cottington, Dr. Williams, Mr. Walter, L. Hopton, L. Culpepper, Dr. Duppa, Sir R. Greenvill, L. Jermine, and Major Gen. Vrrey, have all their pardons granted to them by this court Clericus.</title>
+            <author>Neville, Henry, 1620-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89923</idno>
+            <idno type="STC">Wing N504</idno>
+            <idno type="STC">Thomason E386_4</idno>
+            <idno type="STC">ESTC R201476</idno>
+            <idno type="EEBO-CITATION">99861980</idno>
+            <idno type="PROQUEST">99861980</idno>
+            <idno type="VID">160216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160216)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E386[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact diurnall of the Parliament of ladyes Ordered by the ladyes in Parliament, that they declared that Prince Rupert, Lord Digby, Lord Capell, Lord Cottington, Dr. Williams, Mr. Walter, L. Hopton, L. Culpepper, Dr. Duppa, Sir R. Greenvill, L. Jermine, and Major Gen. Vrrey, have all their pardons granted to them by this court Clericus.</title>
+                  <author>Neville, Henry, 1620-1694.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Neville by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>With a woodcut illustration on the title page. "An inferior reprint of the pamphlet, omitting the woodcut, was made in the 19th century"--Madan.</note>
+                  <note>Annotation on Thomason copy: "May 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160216:1" rendition="simple:additions"/>
+            <p>An Exact Diurnall OF THE <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ARLIAMENT OF LADYES</p>
+            <figure>
+               <figDesc>the Parliament of Ladies</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_order">
+                        <p>Ordered by the LADYES in Parliament, That they de<g ref="char:EOLhyphen"/>clare that Prince <hi>Rupert,</hi> Lord <hi>Digby,</hi> Lord <hi>Capell,</hi> Lord <hi>Cottington,</hi> Dr. <hi>Williams,</hi> Mr. <hi>Walter,</hi> L. <hi>Hopton,</hi> L. <hi>Culpepper,</hi> Dr. <hi>Duppa,</hi> Sir R. <hi>Greenvill,</hi> L. <hi>Jermine,</hi> and Major Gen. <hi>Vrrey,</hi> Have all their Pardons granted to them by this COVRT</p>
+                        <closer>
+                           <signed>
+                              <figure>
+                                 <figDesc>seal</figDesc>
+                              </figure> Clericus</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>may. 6<hi rend="sup">th</hi>
+               </add> Printed <hi>Anne Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160216:2"/>
+            <pb n="3" facs="tcp:160216:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>seal</figDesc>
+               </figure>
+            </head>
+            <head>AN Exact Diurnall Of the ſeverall paſſages in the PARLIAMENT OF THE <hi>LADYES.</hi>
+            </head>
+            <head type="sub">From Munday the firſt <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> till Munday the 8th.</head>
+            <div n="Monday" type="day">
+               <head>MVNDAY.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>OVNTESSES and other Ladies (on Munday morning early, in a <hi>Proſopopia</hi>) being met in <hi>Mary Maudlins</hi> Hall in <hi>Oxford,</hi> they firſt made choyce of their <hi>Speaker;</hi> and it was agreed by all, that the Lady <hi>Oboney</hi> ſhould have the Chaire, The Lady <hi>Rivers</hi> was made Chanſellor Nurſe <hi>Windham</hi> High Con<g ref="char:EOLhyphen"/>ſtable, The Counteſſe of <hi>Derby</hi> High Treaſurer, and the Counteſſe of <hi>Eſſex</hi> High Chamberlin.</p>
+               <p>The <hi>Ladies</hi> having all taken their places, Mrs. <hi>Powell</hi> was appoin<g ref="char:EOLhyphen"/>ted Cheefe <hi>Clerk</hi> to the Houſe, and Mrs. <hi>Peele</hi> Chaire Lady to the Cloſe Committee, And <hi>Moll-Cut-purſe</hi> was made Serjeant at Armes</p>
+               <p>
+                  <pb n="4" facs="tcp:160216:3"/>
+The firſt day was wholly taken up in ſpeeches by the Counteſſe of <hi>Derby,</hi> Nurſe <hi>Windham,</hi> the Lady <hi>Rivers,</hi> and others, for redreſſe of greivances, and Execution of Juſtice againſt ſome by them charged.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speeches">
+                           <div type="part">
+                              <head>The Counteſſe of <hi>Derby</hi> hir. SPEECH.</head>
+                              <opener>
+                                 <salute>Lady Speaker,</salute>
+                              </opener>
+                              <p>COnſidering that I owe to the benevolent aſpects of the Ladies, both my heart, and all reſpects which may be due unto ſo high a Court, whoſe power ſwayes more by love and Armes, then Law. In regard that I was made (by this Aſſembly) <hi>Lady High Treaſurer:</hi> I con<g ref="char:EOLhyphen"/>ceive my ſelfe obliged to move for redreſſe of ſome abuſes againſt our Prelate, by ſome, whoſe Cowardly and perfidious behaviour, loſt <gap reason="illegible" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> deſignes.</p>
+                           </div>
+                           <div type="part">
+                              <head>The Lady <hi>Rivers</hi> hir SPEECH.</head>
+                              <opener>
+                                 <salute>Lady Speaker,</salute>
+                              </opener>
+                              <p>THis Honourable <hi>Lady</hi> Speakes ſenſibly, knowing hir deare Lord to be hereby ſorced to remaine in <hi>Exile,</hi> to pluck <hi>Geeſe, Ducks, Dotterills,</hi> and <hi>Widgeons,</hi> to retaine their <hi>Plumes,</hi> we may all of us ſpeake feelingly to this buſineſſe, my motion is that Prince <hi>Rupert,</hi> and the reſt that have beene the cauſe of it, may be ſent for to come before us.</p>
+                           </div>
+                           <div type="part">
+                              <head>Nurſe Windhams SPEECH.</head>
+                              <opener>
+                                 <salute>Lady Speaker,</salute>
+                              </opener>
+                              <p>THeſe noble <hi>Ladyes</hi> have moved well: That which I ſhallde ſire is, That all ſuch who have beene either <hi>treacherous</hi> to our deſignes, or baſe and cowardly, may be ſent for, and brought to the Barias De<g ref="char:EOLhyphen"/>linquents, and here examined before the whole Houſe.</p>
+                           </div>
+                           <div type="part">
+                              <head>The Lady <hi>Ohoneys</hi> SPEECH.</head>
+                              <opener>
+                                 <salute>Grave Ladyes,</salute>
+                              </opener>
+                              <p>
+                                 <hi>I</hi> Am amazed at the thoughts of ſome baſe ſpirits, who have betrayed us; But by my conſent; let them be ſent for; That both they and all others may know, what it is to treſpaſſe on our leuity.</p>
+                           </div>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>After a long debate about this weighty buſineſſe it was Ordered by the Ladyes, that the ſaid buſineſſe be taken into ſerious conſidera<g ref="char:EOLhyphen"/>tion the next day.</p>
+            </div>
+            <div n="Tuesday" type="day">
+               <head>Tueſday.</head>
+               <p>THe <hi>Ladyes</hi> being againe met, debated the buſineſſe, moved the day before. And Ordered to ſend for theſe Delinquents following, to be brought before them either alive or dead.</p>
+               <list>
+                  <pb n="5" facs="tcp:160216:3"/>
+                  <head>A Liſt of the Delinquents ſent for Priſoners to the Ladyes.</head>
+                  <item>Prince <hi>Rupert.</hi>
+                  </item>
+                  <item>Lord <hi>George Digby.</hi>
+                  </item>
+                  <item>Lord <hi>Capell.</hi>
+                  </item>
+                  <item>Lord <hi>Cottington.</hi>
+                  </item>
+                  <item>Doctor <hi>Williams</hi>
+                  </item>
+                  <item>Arch-Biſhop of <hi>Yorke,</hi>
+                  </item>
+                  <item>Maſter <hi>Walter.</hi>
+                  </item>
+                  <item>Lord <hi>Hopton.</hi>
+                  </item>
+                  <item>Lord <hi>Culpepper.</hi>
+                  </item>
+                  <item>Doctor <hi>Duppa</hi> the</item>
+                  <item>Princes Chaplin.</item>
+                  <item>Sir <hi>Rich. Greenvill.</hi>
+                  </item>
+                  <item>Lord <hi>Hen. Germin.</hi>
+                  </item>
+                  <item>Major Gen. <hi>Vrry.</hi>
+                  </item>
+               </list>
+               <p>The warrant being delivered to the Sarjant at Armes, Mrs. <hi>Mary</hi> muſters up her witty <hi>Merinidons,</hi> ſends for and attacheth the De<g ref="char:EOLhyphen"/>linquents, whom ſhe keepes priſoners, faſt in <hi>Irons,</hi> leaſt they or any of them ſhould make eſcape.</p>
+            </div>
+            <div n="Wednesday" type="day">
+               <head>Wedneſday.</head>
+               <p>THe <hi>Ladyes</hi> being ſate, <hi>Moll-Cutpurſe</hi> advertiſed them, that the priſoners were all apprehended. Then were they called to the barr. The Lady <hi>Speaker</hi> ſitting in the Cheare, and next to her, on the right hand the Lady <hi>Chanſellor,</hi> and the <hi>Treaſurer,</hi> and on the left hand, the Lady <hi>High Cunſtable,</hi> and the Lady Chamberlin, and the reſt of the Ladyes in order, on the one ſide of the <hi>Hall.</hi> And on the other, before whom the tr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbling priſoners were brought to the Barr, and the charge brought in by the Cloſe Committee.</p>
+               <p n="1">1 Prince <hi>Rupert</hi> was called in, and falling on his knees, heard his charge read againſt him, that he hath been the cheife cauſe of their deſignes miſcarying by his plundering at <hi>Edge-Hill,</hi> his wilfulneſſe at <hi>Marſton-moore,</hi> and his cowardlineſſe at <hi>Boiſtoll. To all which he plea<g ref="char:EOLhyphen"/>ded not guilty noble</hi> Amozons.</p>
+               <p n="2">2. Then the Lord <hi>George Digby</hi> was called to the Barr, and char<g ref="char:EOLhyphen"/>ged for a <hi>Machivilian,</hi> when he was Secretary: A coward when he was Generall, and an Aſſe when he went Iriſh Empaſſadour; <hi>To which his Lordſhip pleaded not guilty my</hi> Ladyes.</p>
+               <p n="3">3 The Lord <hi>Capell</hi> was charged for a <hi>Plunderer,</hi> a <hi>Robearier,</hi> and a Cow<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ealer, and by that meanes their cauſe was diſparadged, and made odious, as if the Armies intended to make a pray of the people. <hi>To all which his</hi> Lordſhip <hi>pleaded not guilty, and if it pleaſe your La<g ref="char:EOLhyphen"/>dyſhips.</hi>
+               </p>
+               <p n="4">4 The old L. <hi>Cottington,</hi> (though uery loath to kneele) was for<g ref="char:EOLhyphen"/>ſed to ſubmit and here his charge. That he had not onely often vext the Ladyes at Court by croſſing their motions, but had put them in<g ref="char:EOLhyphen"/>to many terrible, frights, during the Leagure at <hi>Oxford,</hi> and at laſt betrayd them co ſave his owne head, which was never half ſo good
+<pb n="6" facs="tcp:160216:4"/>as Prince <hi>Griffins,</hi> or the Calves head, at the <hi>Beggers</hi> feaſt. His Lord<g ref="char:EOLhyphen"/>ſhip ſaid he was an innocent Lord, and prayed them to pitty his age, and he would never trouble them.</p>
+               <p n="5">5 Doctor <hi>Williams,</hi> late <hi>Arch-Biſhop</hi> of <hi>Yorke,</hi> was charged (by a complaint made by the welch <hi>Ladyes</hi> againſt him) that he made his coſen <hi>Taffy</hi> to leape ditches and Ramplers up and downe, and on both ſides, in <hi>England</hi> and in <hi>Wales:</hi> and at laſt to leape quite away from hir. His <hi>Lordſhip would not endure the charge.</hi>
+               </p>
+               <p n="6">6 Mr. <hi>Walter</hi> was brought to the Barr and charged to be a great diſgracer of their ſex, and that he laid open his wives Inconſtancy, ſo much to the worlds vew, that it extended to the diſparidgment of ſome members of their Aſſembly, and that for the ſame he was charg<g ref="char:EOLhyphen"/>ed to be a grand inſendiary. <hi>To which charge he pleaded he was not guilty of any miſdemeanor.</hi>
+               </p>
+               <p n="7">7 The Lord <hi>Hopton</hi> was charged, for that when he was Cheife pro<g ref="char:EOLhyphen"/>tector of their <hi>Ladyſhips</hi> hopes to get up an Army again to hold up their Spirits, that his Lordſhip did in a baſe manner, firſt fly before Sir <hi>Thomas Fairfax</hi> in the <hi>Weſt,</hi> and at laſt (without fighting) ſurren<g ref="char:EOLhyphen"/>der all their <hi>Horſes,</hi> and <hi>Armes. To which he pleaded not guilty,</hi> my Honoured Ladies.</p>
+               <p n="8">8 The Lord <hi>Culpepper</hi> was charged for a cloſe Juncto man, and that he was a fomenter of diviſions, betweene the <hi>Ladies</hi> and their <hi>Huſbands;</hi> And that he had Traiterouſly intiſed Prince <hi>Charles</hi> to go into <hi>Sicilie,</hi> and ſo into <hi>France. To which he pleaded not guilty of offence therein.</hi>
+               </p>
+               <p n="9">9 Doctor <hi>Duppa</hi> is charged for hiding himſelfe when the <hi>Prince</hi> was in moſt need of him; and that he was a falſe <hi>Prophet</hi> telling the <hi>Ladies</hi> of great victories, when they had the greateſt loſſes; <hi>To which he pleaded</hi> nulla Errata.</p>
+               <p n="10">10 Sir <hi>Richard Greenvill</hi> was charged for Tyrannicall uſadge to the Countrie, and that by <hi>killing</hi> and <hi>hanging</hi> divers only for re<g ref="char:EOLhyphen"/>venge and pride, he loſt the hearts of a great party which otherwiſe would have held up <hi>Epiſcopacie,</hi> and <hi>Common prayer, May poles,</hi> &amp; <hi>Morrice-dancing; Wakes, and Love-meetings,</hi> which now are laid a<g ref="char:EOLhyphen"/>ſide. Sir <hi>Richard anſwered. That he was the Ladies humble Servant,</hi> though they ſhould hang him every day.</p>
+               <p n="11">11. The Lord Harry <hi>Iermin,</hi> was Charged by the Ladies, that his <hi>Lordſhip</hi> was made all of Complements towards them, not ſparing them one drop of help along time, onely had kept himſelf in quarters
+<pb n="7" facs="tcp:160216:4"/>and a farr off, leaving the reſt, to fight for, or looſe the <hi>Engliſh</hi> La<g ref="char:EOLunhyphen"/>dyes <hi>Liberties,</hi> himſelfe taking care only to ſave his own ſkin whole <hi>To which his Lordſhip pleaded. Spare mee, moſt lovely Gallants, I am cleare of harming you.</hi>
+               </p>
+               <p n="12">12. Major Generall <hi>Vrrey</hi> was brought to the Barr, his charge was for Inconſtancy. the moſt hatefull thing to the Ladyes, that he de<g ref="char:EOLhyphen"/>ſerved death; leaſt the world ſhould be troubled with children of his getting to be like the Father <hi>To his charge he pleaded, not guilty.</hi>
+               </p>
+               <p>The witneſſes were ordered to be ſummoned againſt the next day, and then the whole matter of fact to be examined and debated.</p>
+            </div>
+            <div n="Thursday" type="day">
+               <head>Thurſday.</head>
+               <p>THe <hi>Priſoners</hi> being againe brought before the Ladyes and witneſſe examined, The Ladyes upon reſult of the whole voted them all guilty, and that the next day Iudgement ſhould be denounced againſt every one of them, according to their ſeveral offences.</p>
+            </div>
+            <div n="Friday" type="day">
+               <head>Friday.</head>
+               <p>THe <hi>Ladyes</hi> delivered Iudgement ag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inſt the ſeverall Priſoners, as followeth.</p>
+               <list>
+                  <item>1. Prince <hi>Rupert</hi> was Sentenced to be faſt bound to a Poſt amongſt <hi>Porcupins,</hi> and ſo to remaine untill he be ſtuck to death with their quills.</item>
+                  <item>2. The Lord <hi>Georg Digby</hi> was condemned to be put into a <hi>Den</hi> a<g ref="char:EOLhyphen"/>mongſt all manner of Vipers, and there to live (all the dayes of his life, on ſuch <hi>Treacle</hi> as he ſhall make of them. and have no other food.</item>
+                  <item>3 The Lord <hi>Capell</hi> was adjudged, to be ſtripped ſtark-naked, (put into the valley of <hi>Hubla</hi>) to keepe waſps and hornets from the hives of the laborious <hi>Bees<g ref="char:punc">▪</g>
+                     </hi>
+                  </item>
+                  <item>4 The Lord <hi>Cottingtons</hi> Sentence was to ride perpetuall <hi>Poſt,</hi> be<g ref="char:EOLhyphen"/>tween <hi>Spain</hi> and <hi>England,</hi> upon old decrepit, ſtumbling Jades; and croſſe the Seas in old wether-beaten <hi>French</hi> Pickero ones, to and fro, all the dayes of his life.</item>
+                  <item>5 The Arch Biſhop of <hi>York</hi> was Condemned to Exile in the lake of <hi>Lerna,</hi> and there to be confined to a <hi>Welch Cottage,</hi> And get his living by Angling for Frogs out of thoſe ditches.</item>
+                  <item>6. Maſter <hi>Walter</hi> was adjudged to be baniſhed the Company of all <hi>women,</hi> and carried to a ſtrange land, to gett his living by teaching <hi>Apes,</hi> to ſing the Note of the Engliſh Cuckoe.</item>
+                  <item>
+                     <pb n="8" facs="tcp:160216:5"/>
+7. The Lord <hi>Hoptons</hi> penalty was denounced againſt him, that his <hi>Lordſhip</hi> ſhould ſerve the <hi>Cloaca's</hi> at the houſe of Office, all the dayes of his life.</item>
+                  <item>8. The Lord <hi>Culpepper</hi> was adjudged to be Exiled a Bondſlave for ſeven yeares into a <hi>Stigion Galloy,</hi> to record the <hi>Ghoſts</hi> that paſſe o<g ref="char:EOLhyphen"/>ver the <hi>Lake,</hi> and to be fed with <hi>browne Bread Cruſts,</hi> and foure fil<g ref="char:EOLhyphen"/>lips on the <hi>Noſe</hi> every bit he eats.</item>
+                  <item>9. Doctor <hi>Duppaners</hi> ſenteneed by the Ladyes to ſerve the <hi>Scou<g ref="char:EOLhyphen"/>ring Woemen</hi> at Court, and be fed with the Cookes papers, taken from under the Kings <hi>Pies, Paſties,</hi> and <hi>Tartes.</hi>
+                  </item>
+                  <item>10. Sir <hi>Richard Greenvills</hi> doome was, to be put into a Cave in the Iſle of <hi>Wight,</hi> without any light but the glittering of <hi>Glo-wormes and Rotten Wood,</hi> and there to fight with <hi>Ratts, Miſe, and Weaſeils.</hi> And live upon the prey of thoſe undermining vermin.</item>
+                  <item>11. The Lord <hi>Henry Germin,</hi> his Judgement is to be confined to the Land of <hi>Pigmyes,</hi> to help the Inhabitants to diſcover the ſuttle plots of the <hi>Cranes,</hi> and <hi>Herons;</hi> and aſſert them againſt ſuch like feirce Birds that would eat them up.</item>
+                  <item>12. Major Generall <hi>Vrry</hi> his penaltyes to be tyed to a very high <hi>Weathercock</hi> on the top of a Steeple, and feed only on <hi>Flyes</hi> and <hi>Spy<g ref="char:EOLhyphen"/>ders.</hi>
+                  </item>
+               </list>
+               <p>The Lady Speaker having thus in the name of the whole Houſe de<g ref="char:EOLhyphen"/>nounced Sentence againſt the Priſoners. The Lord <hi>Digby</hi> (in moſt ſub<g ref="char:EOLhyphen"/>miſsive manner) prayes for mitigation of his ſentences: And ſo doth the Lord <hi>Iermin,</hi> and all the reſt of the condemned Priſoners, whoſe briniſh teares made the Ladies hearts to relent, And Ordered to conſider how to ſhew them mercy on the morrow.</p>
+            </div>
+            <div n="Saturday" type="day">
+               <head>Saterday.</head>
+               <p>THe Ladyes being againe ſoliſited in behalfe of the Priſoners con<g ref="char:EOLhyphen"/>demned, to leſſen thoſe bitter ſentenſes denounced againſt them, debated the buſineſſe; and at laſt Ordered that a generall Reprive ſhould be granted to them all which was done accordingly, to the great joy of all the Priſoners, and their friends.</p>
+            </div>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
